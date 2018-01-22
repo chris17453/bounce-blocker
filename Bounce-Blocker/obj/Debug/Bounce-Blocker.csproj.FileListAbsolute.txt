@@ -1,0 +1,13 @@
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\bin\Debug\Bounce-Blocker.exe.config
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce-Blocker.csprojResolveAssemblyReference.cache
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce_Blocker.Properties.Resources.resources
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce-Blocker.csproj.GenerateResource.Cache
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\dm.dosScreen.resources
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\bin\Debug\Bounce-Blocker.exe
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\bin\Debug\Bounce-Blocker.pdb
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce-Blocker.exe
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce-Blocker.pdb
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce_Blocker.Form1.resources
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce_Blocker.game.resources
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce_Blocker.bbGame.resources
+C:\Users\ITAdmin\Desktop\Matthew\Bounce-Blocker\Bounce-Blocker\obj\Debug\Bounce_Blocker.menu.resources
